@@ -4,13 +4,13 @@
 
 Un repositorio con todas las tareas realizadas durante el pre-curso de TR network.
 
-## Files
+## Asignaciones
 
 ### Lunes 13 de mayo
 - [FizzBuzz](./FizzBuzz.java)
 - [PaperRockScissorsLIzardSpock](./PaperRockScissorsLIzardSpock.java)
 - [HangMan](./HangMan.java)
 
-## License
+## Licencia
 
-This project is licensed under the [MIT License](./LICENSE).
+Este proyecto está licenciado bajo la [Licencia MIT](./LICENSE).
