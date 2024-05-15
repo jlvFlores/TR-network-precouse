@@ -13,6 +13,7 @@ Un repositorio con todas las tareas realizadas durante el pre-curso de TR networ
 
 ### Lunes 14 de mayo
 - [Pagina personal](./tarea_2/index.html)
+- [Ejemplo Bootstrap](./tarea_2/bootstrap.html)
 
 ## Licencia
 
