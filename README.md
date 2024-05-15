@@ -11,6 +11,9 @@ Un repositorio con todas las tareas realizadas durante el pre-curso de TR networ
 - [PaperRockScissorsLIzardSpock](./tarea_1/PaperRockScissorsLIzardSpock.java)
 - [HangMan](./tarea_1/HangMan.java)
 
+### Lunes 14 de mayo
+- [Pagina personal](./tarea_2/index.html)
+
 ## Licencia
 
 Este proyecto está licenciado bajo la [Licencia MIT](./LICENSE).
