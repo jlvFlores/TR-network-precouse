@@ -7,9 +7,9 @@ Un repositorio con todas las tareas realizadas durante el pre-curso de TR networ
 ## Asignaciones
 
 ### Lunes 13 de mayo
-- [FizzBuzz](./FizzBuzz.java)
-- [PaperRockScissorsLIzardSpock](./PaperRockScissorsLIzardSpock.java)
-- [HangMan](./HangMan.java)
+- [FizzBuzz](./tarea_1/FizzBuzz.java)
+- [PaperRockScissorsLIzardSpock](./tarea_1/PaperRockScissorsLIzardSpock.java)
+- [HangMan](./tarea_1/HangMan.java)
 
 ## Licencia
 
