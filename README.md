@@ -15,6 +15,10 @@ Un repositorio con todas las tareas realizadas durante el pre-curso de TR networ
 - [Pagina personal](./tarea_2/index.html)
 - [Ejemplo Bootstrap](./tarea_2/bootstrap.html)
 
+### Lunes 15 de mayo
+- [Memorama](./tarea_3/index.html)
+
+
 ## Licencia
 
 Este proyecto está licenciado bajo la [Licencia MIT](./LICENSE).
