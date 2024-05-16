@@ -1,0 +1,56 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+h1, h3 {
+  text-align: center;
+}
+
+section {
+  border: 1px solid #000;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-gap: 1em;
+  padding: 1em;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #000;
+  min-height: 5rem;
+  aspect-ratio: 1/1;
+}
+
+.covered {
+  background-color: #000;
+}
+
+.covered h2 {
+  display: none;
+}
+
+button {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  padding: 0.5em 1em;
+  margin: 1rem auto;
+  cursor: pointer;
+  border-radius: 0.5em;
+}
+
+@media screen and (max-width: 1024px){
+  section {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+
+@media screen and (max-width: 768px){
+  section {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
