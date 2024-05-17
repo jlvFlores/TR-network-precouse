@@ -11,13 +11,17 @@ Un repositorio con todas las tareas realizadas durante el pre-curso de TR networ
 - [PaperRockScissorsLIzardSpock](./tarea_1/PaperRockScissorsLIzardSpock.java)
 - [HangMan](./tarea_1/HangMan.java)
 
-### Lunes 14 de mayo
+### Martes 14 de mayo
 - [Pagina personal](./tarea_2/index.html)
 - [Ejemplo Bootstrap](./tarea_2/bootstrap.html)
 
-### Lunes 15 de mayo
+### Miercoles 15 de mayo
 - [Memorama](./tarea_3/index.html)
 
+### Jueves 16 de mayo
+- [Clase Estudiante](./tarea_4/Estudiante.java)
+- [Clase Profesor](./tarea_4/Profesor.java)
+- [Clase Padre](./tarea_4/Padre.java)
 
 ## Licencia
 
